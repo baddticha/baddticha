@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baddticha
-- 👀 I code anything that interests me, stuff like games, spy hacks and even whitehat hacking.
+- 👀 I code anything that interests me, stuff like games, spy hacks etc
 - 🌱 I’m currently learning how to code from scratch
-- 💞️ I’m looking to collaborate on any project you would want, just message me. Git check. 
+- 💞️ Message me to collaborate on cool and fun projects.
 - 📫 badticha@outlook.com
 
 <!---
